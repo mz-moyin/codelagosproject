@@ -1,0 +1,33 @@
+hr{
+padding: 700px solid black;
+}
+h1{
+	text-transform:capitalize;
+}
+.describe{
+	text-align: center; 
+}
+.describe p{
+	text-align: center; 
+}
+span{
+border-left: 2px;
+border-top: 2px;
+border-bottom: 2px;
+border-right: 2px;
+}
+btn-btn-default{
+	text-align: center;
+}
+h4{
+	text-align: center;
+}
+label {
+	padding: 5px;
+}
+footer{
+	background-color: black;
+}
+.copyright{
+	text-align: center;
+}
